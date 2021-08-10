@@ -29,6 +29,6 @@ $total = $a/$b;
 echo "El total de la divicion es:".$total;
 
 
-
+echo" fin ";
 
   ?>
