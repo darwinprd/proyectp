@@ -30,5 +30,6 @@ echo "El total de la divicion es:".$total;
 
 
 echo" fin ";
+echo" Hola mundo "; 
 
   ?>
